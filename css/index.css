@@ -161,7 +161,7 @@
 	margin: 0;
 	padding: 0;
 	width: 1300px;
-	height: 600px;
+	height: 450px;
 	position: absolute;
 
 	transition: 1s;
@@ -172,7 +172,7 @@
 	margin: 0;
 	padding: 0;
 	width: 1300px;
-	height: 600px;
+	height: 450px;
 	background-size: cover;
 
 }
